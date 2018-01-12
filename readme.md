@@ -4,10 +4,19 @@ Simple app with various activities, toast, login validation, youtube video conne
 
 ## ScreenShots
 
-  <img src="https://github.com/Ricardo-Developer/android_studio_school_database/blob/master/images/1.png" style="max-width: 75%;" alt="Main_Screen">
+  <img src="https://github.com/Ricardo-Developer/android_studio_school_database/blob/master/images/1.png" width="320px" height="320px" alt="Main_Screen">
   <img src="https://github.com/Ricardo-Developer/android_studio_school_database/blob/master/images/2.png" style="max-width: 75%;" alt="Platform">
   <img src="https://github.com/Ricardo-Developer/android_studio_school_database/blob/master/images/3.png" style="max-width: 75%;" alt="List View - Erase,Edit,Create,Sort">
   <img src="https://github.com/Ricardo-Developer/android_studio_school_database/blob/master/images/4.png" style="max-width: 75%;" alt="Add Alumni">
   <img src="https://github.com/Ricardo-Developer/android_studio_school_database/blob/master/images/5.png" style="max-width: 75%;" alt="Add Class">
+
+
+
+
+![Platform](https://github.com/Ricardo-Developer/android_studio_school_database/blob/master/images/2.png | width=320)
+![List View- Erase,Edit,Create,Sort](https://github.com/Ricardo-Developer/android_studio_school_database/blob/master/images/3.png)
+![Add Alumni](https://github.com/Ricardo-Developer/android_studio_school_database/blob/master/images/4.png)
+![Add Class](https://github.com/Ricardo-Developer/android_studio_school_database/blob/master/images/5.png)
+
 
 
