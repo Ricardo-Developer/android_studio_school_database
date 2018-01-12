@@ -4,7 +4,7 @@ Simple app with various activities, toast, login validation, youtube video conne
 
 ## ScreenShots
 
-![Main Screen](https://github.com/Ricardo-Developer/android_studio_school_database/blob/master/images/1.png)
+![Main Screen](https://github.com/Ricardo-Developer/android_studio_school_database/blob/master/images/1.png =250)
 ![Platform](https://github.com/Ricardo-Developer/android_studio_school_database/blob/master/images/2.png)
 ![List View- Erase,Edit,Create,Sort](https://github.com/Ricardo-Developer/android_studio_school_database/blob/master/images/3.png)
 ![Add Alumni](https://github.com/Ricardo-Developer/android_studio_school_database/blob/master/images/4.png)
